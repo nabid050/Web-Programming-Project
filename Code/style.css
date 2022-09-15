@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.car-img{
+    height: 80vh;
+}
+.navbar-nav{
+    display: flex;
+    justify-content: end;
+}
+.link-donate-btn{
+    text-align: center;
+    text-decoration: none;
+    background-color: rgb(204, 12, 44);
+    color: white;
+    display: inline-block;
+    margin-top: 20px;
+    padding: 15px 55px;
+    border-radius: 15px;
+}
+.img-fluid{
+    height: 85%;
+}
+.decrp-img{
+    margin-left: 60px;
+}
