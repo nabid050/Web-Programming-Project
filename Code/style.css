@@ -26,3 +26,9 @@
 .decrp-img{
     margin-left: 60px;
 }
+.slogan{
+    display: inline-block;
+    color: rgb(240, 10, 29);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 150px;
+}
